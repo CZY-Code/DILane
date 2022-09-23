@@ -5,8 +5,8 @@
 </div>
 
 ## Introduction
-![Arch](arch/arch_1.png)
-![Arch](arch/arch_2.png)
+![Arch](arch/arch_1.PNG)
+![Arch](arch/arch_2.PNG)
 
 ## Installation
 
