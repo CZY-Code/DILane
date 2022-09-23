@@ -5,9 +5,8 @@
 </div>
 
 ## Introduction
-![Arch](.github/arch.png)
-- CLRNet exploits more contextual information to detect lanes while leveraging local detailed lane features to improve localization accuracy. 
-- CLRNet achieves SOTA result on CULane, Tusimple, and LLAMAS datasets.
+![Arch](arch/arch_1.png)
+![Arch](arch/arch_2.png)
 
 ## Installation
 
