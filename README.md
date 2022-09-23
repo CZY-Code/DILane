@@ -5,8 +5,8 @@
 </div>
 
 ## Introduction
-![Arch](arch/arch_1.PNG)
-![Arch](arch/arch_2.PNG)
+![Arch](arch/arch_1.PNG#pic_center =100x)
+![Arch](arch/arch_2.PNG#pic_center =100x)
 
 ## Installation
 
