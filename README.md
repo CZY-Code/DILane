@@ -5,8 +5,9 @@
 </div>
 
 ## Introduction
-![Arch](arch/arch_1.PNG#pic_center =100x)
-![Arch](arch/arch_2.PNG#pic_center =100x)
+<div align="center">
+<img src=arch/arch_1.PNG style="width:480px;"/> <img src=arch/arch_2.PNG style="width:480px;"/>
+</div>
 
 ## Installation
 
@@ -21,13 +22,10 @@ Only test on Ubuntu 20.04 with:
 
 ```Shell
 # Install pytorch firstly, the cudatoolkit version should be same in your system.
-
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
-
 # Or you can install via pip
 pip install torch==1.8.0 torchvision==0.9.0
-
-# Install python packages
+# Install DILane package
 python setup.py build develop
 ```
 
@@ -66,7 +64,6 @@ $TUSIMPLEROOT/clips # data folders
 $TUSIMPLEROOT/lable_data_xxxx.json # label json file x4
 $TUSIMPLEROOT/test_tasks_0627.json # test tasks json file
 $TUSIMPLEROOT/test_label.json # test label json file
-
 ```
 
 For Tusimple, the segmentation annotation is not provided, hence we need to generate segmentation from the json annotation. 
