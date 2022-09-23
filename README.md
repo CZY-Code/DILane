@@ -12,7 +12,7 @@
 
 <div align="center">
 
-# CLRNet: Cross Layer Refinement Network for Lane Detection
+# DILane: Dynamic Instance-Aware Network for Lane Detection
 
 </div>
 
