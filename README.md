@@ -1,6 +1,6 @@
 <div align="center">
 
-# DILane: Dynamic Instance-Aware Network for Lane Detection (ACCV2022 Acceptance)
+# DILane: Dynamic Instance-Aware Network for Lane Detection
 
 </div>
 
